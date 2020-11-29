@@ -233,15 +233,15 @@ h1{
   }
   .style{
 	  text-align: center;
-	  font-size: 1.3em;
+	  font-size: 2em;
 	  background-color: whitesmoke;
   }
   .now{
 	  background-color: whitesmoke;
 	  text-align: center;
-	  font-size: 1.3em;
+	  font-size: 2em;
 	  margin-left:80px ;
-	  margin-right:80px ;
+      margin-right:80px ;
 
   }
   
